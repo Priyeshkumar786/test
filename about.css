@@ -2,7 +2,13 @@
  style
 
  
- 
+ img{
+      text-align: center
+      
+
+  ;
+
+ }
  body {
       font-family: Arial, sans-serif;
       margin: 0;
@@ -40,9 +46,11 @@
       bottom: 0;
       width: 100%;
     }
-      h1{
-            text-align: center;
-            color: #333;
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
+
+    a{
+           
+
+
+
+
+    }
